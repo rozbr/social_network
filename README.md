@@ -1,7 +1,7 @@
 #<h1>social_network</h1>
 #<h3>User Class</h3>
-#<h3>Graphic-User Interface</h3>
-#<h3>Comments nature: </h3> 
+<h3>Graphic-User Interface</h3>
+#<h3>Comments</h3> 
 	#			Instanciates a user with a given number of informations
 	#			Inherits from classes: 
 	#									People
