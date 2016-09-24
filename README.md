@@ -1,4 +1,4 @@
-# social_network
+<h1>social_network</h1>
 
 #			Instanciates a user with a given number of informations
 #			Inherits from classes: 
