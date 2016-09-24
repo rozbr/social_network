@@ -1,13 +1,12 @@
-<h1>social_network</h1>
+#social_network
 
-#			Instanciates a user with a given number of informations
-#			Inherits from classes: 
-#									People
-#									Page Admin 
-#									Group Admin
-#									Blocked User for 30 days 
-class generic_user:
-	
+#.			Instanciates a user with a given number of informations
+#.			Inherits from classes: 
+#.									People
+#.									Page Admin 
+#.									Group Admin
+#.									Blocked User for 30 days 
+class generic_user:	
 	def __init__(self, name, age, occupation, ..., ..., ...):
 		
 		#public variables
@@ -22,7 +21,7 @@ class generic_user:
 		self.__occupation = occupation
 		...
 		
-	# modify any solicited settings 
+	#modify any solicited settings 
 	def set_settings(self):
 		pass
 	
