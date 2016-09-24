@@ -1,6 +1,5 @@
 # social_network
 
-<p> 
 #			Instanciates a user with a given number of informations
 #			Inherits from classes: 
 #									People
@@ -30,4 +29,3 @@ class generic_user:
 	#responsible for get the current settings status
 	def get_settings(self):
 		pass
-</p>
